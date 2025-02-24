@@ -18,7 +18,7 @@ setup(
   install_requires=[
     'einops>=0.8.0',
     # 'hyper-connections>=0.1.8',
-    'git+https://github.com/m3hrdadfi/hyper-connections.git',
+    # 'git+https://github.com/m3hrdadfi/hyper-connections.git',
     'torch>=1.11,<2.0'
   ],
   setup_requires=[
