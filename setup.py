@@ -18,7 +18,7 @@ setup(
   install_requires=[
     'einops>=0.8.0',
     'hyper-connections>=0.1.8',
-    'torch'
+    'torch>=1.11,<2.0'
   ],
   setup_requires=[
     'pytest-runner',
